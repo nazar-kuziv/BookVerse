@@ -25,7 +25,7 @@ To run the project:
 1. Clone the repository from GitHub using the command:
 
 ```
-git clone https://github.com/llutsefer/BookVerse.git
+git clone https://github.com/nazar-kuziv/BookVerse.git
 ```
 
 2. Open the project in your favorite IDE.
